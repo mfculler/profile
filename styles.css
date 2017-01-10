@@ -124,7 +124,7 @@ header .profile-image:hover {
 }
 
 .card a:hover {
-  color: white
+  color: grey
 }
 .card:hover {
   border-color: #ff99ff;
